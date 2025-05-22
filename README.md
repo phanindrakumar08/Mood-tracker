@@ -1,3 +1,6 @@
+# Loom Walkthrough - https://www.loom.com/share/fca50839102b40bcb865cc5e3efbf0c4?sid=8ab5fc8b-6d9c-4516-bded-65f8a0b28e7a
+
+
 # 🧠 Mood Tracker
 
 ![image](https://github.com/user-attachments/assets/55c6e81e-766a-4a15-8715-986f3d2babef)
