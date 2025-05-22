@@ -1,5 +1,7 @@
 # 🧠 Mood Tracker
 
+![image](https://github.com/user-attachments/assets/55c6e81e-766a-4a15-8715-986f3d2babef)
+
 A simple and interactive web application built with **Streamlit** and **Google Sheets API** that helps you track and visualize your daily moods. Log how you're feeling, optionally add a note, and see a live chart of your mood trends for the day.
 
 ---
