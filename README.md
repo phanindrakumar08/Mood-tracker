@@ -1,1 +1,41 @@
-# Mood-tracker
+# 🧠 Mood Tracker
+
+A simple and interactive web application built with **Streamlit** and **Google Sheets API** that helps you track and visualize your daily moods. Log how you're feeling, optionally add a note, and see a live chart of your mood trends for the day.
+
+---
+
+## 🚀 Features
+
+- Log daily moods with a timestamp
+- Optional notes for context
+- Store entries in Google Sheets
+- Auto-refresh and cache data to prevent API quota exhaustion
+- Visualize today's mood distribution using Plotly charts
+- Lightweight and easy to deploy
+
+---
+
+## 📸 Demo
+
+![Mood Tracker Demo](demo.gif) <!-- Optional: Add if you record a gif or screenshot -->
+
+---
+
+## 🛠️ Tech Stack
+
+- [Streamlit](https://streamlit.io/)
+- [Google Sheets API](https://developers.google.com/sheets/api)
+- [gspread](https://github.com/burnash/gspread)
+- [oauth2client](https://github.com/googleapis/oauth2client)
+- [pandas](https://pandas.pydata.org/)
+- [plotly](https://plotly.com/python/)
+
+---
+
+## 📦 Setup Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/mood-tracker.git
+cd mood-tracker
